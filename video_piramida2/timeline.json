@@ -1,0 +1,391 @@
+{
+ "total": 59.454,
+ "scenes": [
+  {
+   "i": 1,
+   "start": 0.0,
+   "dur": 8.019,
+   "vo_start": 0.12,
+   "vo_dur": 7.599388,
+   "chunks": [
+    {
+     "text": "Piramida Giza",
+     "t0": 0.12,
+     "t1": 0.835
+    },
+    {
+     "text": "berdiri 4.500 tahun.",
+     "t0": 0.835,
+     "t1": 3.367
+    },
+    {
+     "text": "Tapi bentuk sempurnanya…",
+     "t0": 4.664,
+     "t1": 6.169
+    },
+    {
+     "text": "lahir dari KEGAGALAN.",
+     "t0": 6.544,
+     "t1": 7.719
+    }
+   ],
+   "marks": {},
+   "segs": [
+    [
+     0.12,
+     3.367
+    ],
+    [
+     4.664,
+     6.169
+    ],
+    [
+     6.544,
+     7.719
+    ]
+   ]
+  },
+  {
+   "i": 2,
+   "start": 8.019,
+   "dur": 6.914,
+   "vo_start": 8.139,
+   "vo_dur": 6.494376,
+   "chunks": [
+    {
+     "text": "Awalnya, orang Mesir",
+     "t0": 0.12,
+     "t1": 0.772
+    },
+    {
+     "text": "hanya menumpuk batu.",
+     "t0": 1.044,
+     "t1": 2.574
+    },
+    {
+     "text": "Piramida Djoser:",
+     "t0": 2.95,
+     "t1": 3.609
+    },
+    {
+     "text": "6 tingkat,",
+     "t0": 3.609,
+     "t1": 4.619
+    },
+    {
+     "text": "setinggi 62 meter.",
+     "t0": 5.027,
+     "t1": 6.614
+    }
+   ],
+   "marks": {},
+   "segs": [
+    [
+     0.12,
+     0.772
+    ],
+    [
+     1.044,
+     2.574
+    ],
+    [
+     2.95,
+     4.619
+    ],
+    [
+     5.027,
+     6.614
+    ]
+   ]
+  },
+  {
+   "i": 3,
+   "start": 14.934,
+   "dur": 10.293,
+   "vo_start": 15.054,
+   "vo_dur": 9.873129,
+   "chunks": [
+    {
+     "text": "Raja Snefru ingin",
+     "t0": 0.12,
+     "t1": 1.313
+    },
+    {
+     "text": "sisi yang mulus.",
+     "t0": 1.313,
+     "t1": 2.398
+    },
+    {
+     "text": "Tapi bangunan mulai RETAK,",
+     "t0": 2.827,
+     "t1": 4.252
+    },
+    {
+     "text": "jadi sudutnya dipangkas,",
+     "t0": 4.703,
+     "t1": 6.739
+    },
+    {
+     "text": "dari 54° menjadi 43°.",
+     "t0": 7.064,
+     "t1": 9.993
+    }
+   ],
+   "marks": {
+    "d": 7.064,
+    "e": 8.499
+   },
+   "segs": [
+    [
+     0.12,
+     2.398
+    ],
+    [
+     2.827,
+     4.252
+    ],
+    [
+     4.703,
+     6.739
+    ],
+    [
+     7.064,
+     8.182
+    ],
+    [
+     8.499,
+     9.993
+    ]
+   ]
+  },
+  {
+   "i": 4,
+   "start": 25.227,
+   "dur": 5.472,
+   "vo_start": 25.347,
+   "vo_dur": 5.051746,
+   "chunks": [
+    {
+     "text": "Mereka tidak menyerah.",
+     "t0": 0.12,
+     "t1": 1.127
+    },
+    {
+     "text": "Piramida Merah akhirnya",
+     "t0": 1.474,
+     "t1": 2.743
+    },
+    {
+     "text": "jadi piramida mulus",
+     "t0": 2.743,
+     "t1": 4.234
+    },
+    {
+     "text": "yang PERTAMA.",
+     "t0": 4.234,
+     "t1": 5.172
+    }
+   ],
+   "marks": {},
+   "segs": [
+    [
+     0.12,
+     1.127
+    ],
+    [
+     1.474,
+     5.172
+    ]
+   ]
+  },
+  {
+   "i": 5,
+   "start": 30.699,
+   "dur": 8.34,
+   "vo_start": 30.819,
+   "vo_dur": 7.919728,
+   "chunks": [
+    {
+     "text": "Putranya, Khufu,",
+     "t0": 0.12,
+     "t1": 1.433
+    },
+    {
+     "text": "membangun yang terbesar.",
+     "t0": 1.669,
+     "t1": 2.805
+    },
+    {
+     "text": "2,3 juta balok batu,",
+     "t0": 3.137,
+     "t1": 5.1
+    },
+    {
+     "text": "dalam 20 tahun.",
+     "t0": 5.248,
+     "t1": 6.368
+    },
+    {
+     "text": "Lebih tinggi dari MONAS.",
+     "t0": 6.663,
+     "t1": 8.04
+    }
+   ],
+   "marks": {},
+   "segs": [
+    [
+     0.12,
+     0.802
+    ],
+    [
+     0.953,
+     1.433
+    ],
+    [
+     1.669,
+     2.805
+    ],
+    [
+     3.137,
+     5.1
+    ],
+    [
+     5.248,
+     6.368
+    ],
+    [
+     6.663,
+     8.04
+    ]
+   ]
+  },
+  {
+   "i": 6,
+   "start": 39.038,
+   "dur": 5.804,
+   "vo_start": 39.158,
+   "vo_dur": 5.384263,
+   "chunks": [
+    {
+     "text": "Dan pekerjanya",
+     "t0": 0.12,
+     "t1": 0.679
+    },
+    {
+     "text": "BUKAN BUDAK.",
+     "t0": 0.679,
+     "t1": 1.318
+    },
+    {
+     "text": "Puluhan ribu tenaga terampil,",
+     "t0": 1.743,
+     "t1": 3.529
+    },
+    {
+     "text": "dibayar dan diberi makan.",
+     "t0": 3.92,
+     "t1": 5.504
+    }
+   ],
+   "marks": {},
+   "segs": [
+    [
+     0.12,
+     1.318
+    ],
+    [
+     1.743,
+     3.529
+    ],
+    [
+     3.92,
+     5.504
+    ]
+   ]
+  },
+  {
+   "i": 7,
+   "start": 44.843,
+   "dur": 7.065,
+   "vo_start": 44.963,
+   "vo_dur": 6.645125,
+   "chunks": [
+    {
+     "text": "Dulu, dilapisi batu putih",
+     "t0": 0.12,
+     "t1": 1.777
+    },
+    {
+     "text": "berkilau.",
+     "t0": 1.777,
+     "t1": 2.546
+    },
+    {
+     "text": "Setelah gempa 1303,",
+     "t0": 2.904,
+     "t1": 4.999
+    },
+    {
+     "text": "banyak lapisannya LEPAS.",
+     "t0": 5.252,
+     "t1": 6.765
+    }
+   ],
+   "marks": {},
+   "segs": [
+    [
+     0.12,
+     2.546
+    ],
+    [
+     2.904,
+     4.999
+    ],
+    [
+     5.252,
+     6.765
+    ]
+   ]
+  },
+  {
+   "i": 8,
+   "start": 51.908,
+   "dur": 7.546,
+   "vo_start": 52.028,
+   "vo_dur": 4.926281,
+   "chunks": [
+    {
+     "text": "Tanpa piramida",
+     "t0": 0.12,
+     "t1": 0.838
+    },
+    {
+     "text": "yang GAGAL itu,",
+     "t0": 0.838,
+     "t1": 1.813
+    },
+    {
+     "text": "tak ada keajaiban dunia",
+     "t0": 2.09,
+     "t1": 3.47
+    },
+    {
+     "text": "yang masih berdiri.",
+     "t0": 3.47,
+     "t1": 5.046
+    }
+   ],
+   "marks": {},
+   "segs": [
+    [
+     0.12,
+     1.813
+    ],
+    [
+     2.09,
+     5.046
+    ]
+   ]
+  }
+ ]
+}

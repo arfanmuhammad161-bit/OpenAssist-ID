@@ -3,3 +3,10 @@ video/render.log
 video/audio.wav
 video_kabah/render.log
 video_kabah/audio.wav
+video_piramida2/render.log
+video_piramida2/audio.wav
+video_piramida2/vo.wav
+video_piramida2/__pycache__/
+video_piramida/audio.wav
+video_piramida/render.log
+video_piramida/__pycache__/
